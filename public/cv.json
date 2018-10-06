@@ -181,7 +181,8 @@
             ".NET",
             "MongoDB",
             "WPF",
-            "Rx"
+            "Rx",
+            "XUnit"
           ],
           "projects": {
             "items": [
