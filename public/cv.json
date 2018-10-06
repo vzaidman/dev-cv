@@ -36,7 +36,7 @@
             "value": "Expert"
           },
           {
-            "name": ".NET",
+            "name": ".NET/Core",
             "value": "Expert"
           },
           {
@@ -56,7 +56,11 @@
             "value": "Proficient"
           },
           {
-            "name": "Git",
+            "name": "HTML",
+            "value": "Intermediate"
+          },
+          {
+            "name": "S/CSS",
             "value": "Intermediate"
           },
           {
@@ -76,11 +80,7 @@
             "value": "Intermediate"
           },
           {
-            "name": "HTML",
-            "value": "Intermediate"
-          },
-          {
-            "name": "S/CSS",
+            "name": "Git",
             "value": "Intermediate"
           },
           {
