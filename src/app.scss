@@ -2,4 +2,8 @@
   display: grid;
   grid-template-columns: auto 1fr;
   grid-template-areas: "brief details";
+
+  .details, .brief {
+    margin-top: 5px;
+  }
 }
