@@ -1,4 +1,4 @@
-#Developer CV Template
+# Developer CV Template
 
 ## Tech Stack
 - React
