@@ -9,7 +9,7 @@ A Print to PDF Friendly CV Template.
 
 ## How to Use
 0) install Node.js, and run the 'npm install' command in the project root folder
-1) run the 'npm start' command in the project root folder and wait for the website to load
+1) run the 'npm start' command in the project root folder and wait for the website to load on http://localhost:3000
 3) Change the title tag in src/index.html (This will be the default file name when you print)
 4) Modify the data in public/cv.json
 5) Replace public/headshot.png with your own
