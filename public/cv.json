@@ -152,23 +152,6 @@
           }
         },
         {
-          "title": "Teaching Assistant",
-          "company": "CodeValue",
-          "startDate": "June 2016",
-          "endDate": "July 2017",
-          "paragraphs": [
-            [
-              "Training entry level employees, as part of an introductory .NET course.",
-              "Screening candidates by evaluation of assignments",
-              "Conducting hands-on coding sessions.",
-              "Evaluating and reviewing solutions of lab assignments."
-            ]
-          ],
-          "techStack":[
-            "C#", ".NET"
-          ]
-        },
-        {
           "title": "Software Developer",
           "company": "CodeValue",
           "startDate": "March 2016",
@@ -202,6 +185,23 @@
               }
             ]
           }
+        },
+        {
+          "title": "Teaching Assistant",
+          "company": "CodeValue",
+          "startDate": "June 2016",
+          "endDate": "July 2017",
+          "paragraphs": [
+            [
+              "Training entry level employees, as part of an introductory .NET course.",
+              "Screening candidates by evaluation of assignments",
+              "Conducting hands-on coding sessions.",
+              "Evaluating and reviewing solutions of lab assignments."
+            ]
+          ],
+          "techStack":[
+            "C#", ".NET"
+          ]
         },
         {
           "title": "Software Developer",
