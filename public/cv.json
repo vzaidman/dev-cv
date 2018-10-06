@@ -52,7 +52,7 @@
             "value": "Proficient"
           },
           {
-            "name": "Rx",
+            "name": "ReactiveX",
             "value": "Proficient"
           },
           {
@@ -117,7 +117,7 @@
             "Webpack", "Babel", "Jest",
             "Node.js", "Express",
             ".NET Core", "C#", "XUnit",
-            "Rx",
+            "ReactiveX",
             "MongoDB", "RabbitMQ", "Docker", "AWS"
           ],
           "projects": {
@@ -181,7 +181,7 @@
             ".NET",
             "MongoDB",
             "WPF",
-            "Rx",
+            "ReactiveX",
             "XUnit"
           ],
           "projects": {
