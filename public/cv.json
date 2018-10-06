@@ -113,7 +113,7 @@
           ],
           "techStack":[
             "React", "Redux", "Javascript",
-            "HTML", "CSS", "SCSS",
+            "HTML", "S/CSS",
             "Webpack", "Babel", "Jest",
             "Node.js", "Express",
             ".NET Core", "C#", "XUnit",
