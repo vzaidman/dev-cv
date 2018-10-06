@@ -5,10 +5,17 @@ $page-height: 29.7cm;
   size: $page-width $page-height;
 }
 
+html {
+  background-color: #E1EDEB;
+}
+
 body {
   font-family: Niramit, Arial, Helvetica, sans-serif;
+  background-color: white;
   width: $page-width;
   height: $page-height;
+  margin-right: auto;
+  margin-left: auto;
   font-size: 12pt;
   -webkit-print-color-adjust: exact;
   line-height: 145%;
@@ -25,4 +32,8 @@ div, ul, p, a, section, a, li, span {
 
 ul {
   list-style: none;
+}
+
+aside, main {
+  margin-top: 3px;
 }
