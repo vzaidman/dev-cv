@@ -5,10 +5,12 @@
 - SCSS
 
 ## How to Use
+0) npm install
 1) npm start
 2) Modify data in public/cv.json
-3) Change Title in src/index.html
-3) Print to PDF with Google Chrome
+3) Replace public/headshot.png
+4) Change Title in src/index.html
+5) Print to PDF with Google Chrome
 
 ## Output Example
 [Click Here](https://github.com/EyalPerry/dev-cv/blob/master/output-example.pdf)
