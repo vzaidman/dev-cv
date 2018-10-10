@@ -13,7 +13,7 @@ A *Print Friendly* CV web app, which you can easily set up, modify and export to
 3) Change the title tag in src/index.html (this will be the default file name when you print).
 4) Modify the data in public/cv.json.
 5) Replace public/headshot.png with your own.
-6) Add more resources to the public folder and use them in public/cv.json.
+6) Add more resources to the public folder and use them in public/cv.json. (optional)
 7) Change the font in the src/index.html stylesheet tag + src/index.scss body selector to something more you.
 8) Print to PDF with Google Chrome.
 
