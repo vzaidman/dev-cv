@@ -24,4 +24,4 @@ A *Print Friendly* CV web app, which you can easily set up, modify and export to
 1) public/cv.json.details.experience.items.projects is WIP - it is not rendered ATM.
 2) public/cv.json.details.education.items.projects is WIP - it is not rendered ATM.
 3) page needs to be manually reloaded after each change.
-4) the layout does not scale well when there are too many items in the details pane. Pages other than the first are shown with an empty left pane which takes up space, instead of collapsing it to accomodate the items in the details pane.
+4) When there are many items in the right pane, pages other than the first are shown with an empty left pane which takes up space, instead of collapsing to accomodate visible elements.
