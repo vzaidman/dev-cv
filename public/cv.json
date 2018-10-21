@@ -1,29 +1,29 @@
 {
   "brief": {
     "person": {
-      "name": "Eyal Perry",
-      "title": "Full Stack Developer",
-      "residence": "Karmiel, Israel.",
+      "name": "Vitali Zaidman",
+      "title": "Web Architect",
+      "residence": "Tel Aviv, Israel.",
       "headshot": {
         "source": "http://localhost:3000/headshot.png"
       },
-      "mobile": "+972-54-314-6808",
-      "skype": "e.perry.pa",
-      "email": "e.perry.pa@gmail.com"
+      "mobile": "+972-54-7777-983",
+      "skype": "viclickz",
+      "email": "vzaidman@gmail.com"
     },
     "links": [
       {
-        "url": "https://www.linkedin.com/in/eyalperry/",
+        "url": "https://www.linkedin.com/in/vzaidman",
         "imageSource": "http://localhost:3000/linkedin.png",
         "imageAlt": "LinkedIn"
       },
       {
-        "url": "https://stackoverflow.com/story/eyal-perry",
+        "url": "https://stackoverflow.com/story/vzaidman",
         "imageSource": "http://localhost:3000/stackoverflow.png",
         "imageAlt": "StackOverflow"
       },
       {
-        "url": "https://github.com/EyalPerry",
+        "url": "https://github.com/vzaidman",
         "imageSource": "http://localhost:3000/github.svg",
         "imageAlt": "GitHub"
       }
@@ -32,71 +32,82 @@
       "technologies": {
         "items": [
           {
-            "name": "C#",
-            "value": "Expert"
-          },
-          {
-            "name": ".NET/Core",
-            "value": "Expert"
-          },
-          {
             "name": "Javascript",
-            "value": "Proficient"
+            "value": "Expert"
           },
           {
             "name": "React",
-            "value": "Proficient"
+            "value": "Expert"
           },
           {
             "name": "Redux",
-            "value": "Proficient"
+            "value": "Expert"
           },
           {
-            "name": "ReactiveX",
-            "value": "Proficient"
-          },
-          {
-            "name": "HTML",
-            "value": "Intermediate"
-          },
-          {
-            "name": "S/CSS",
-            "value": "Intermediate"
-          },
-          {
-            "name": "Node.js",
-            "value": "Intermediate"
-          },
-          {
-            "name": "MongoDB",
-            "value": "Intermediate"
-          },
-          {
-            "name": "RabbitMQ",
-            "value": "Intermediate"
-          },
-          {
-            "name": "Docker",
-            "value": "Intermediate"
+            "name": "Jest",
+            "value": "Expert"
           },
           {
             "name": "Git",
-            "value": "Intermediate"
+            "value": "Expert"
+          },
+          {
+            "name": "HTML",
+            "value": "Expert"
+          },
+          {
+            "name": "S/CSS",
+            "value": "Expert"
+          },
+          {
+            "name": "Node.js",
+            "value": "Expert"
+          },
+          {
+            "name": "Webpack",
+            "value": "Expert"
+          },
+          {
+            "name": "MongoDB",
+            "value": "Expert"
+          },
+          {
+            "name": "Docker",
+            "value": "Expert"
           },
           {
             "name": "AWS",
-            "value": "Basic"
+            "value": "Intermediate"
+          },
+          {
+            "name": "Kubernetes",
+            "value": "Intermediate"
+          },
+          {
+            "name": "C#",
+            "value": "Intermediate"
+          },
+          {
+            "name": ".NET (+ For Windows Phone)",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Objective-C (For iPhone)",
+            "value": "Intermediate"
+          },
+          {
+            "name": "Java (For Android)",
+            "value": "Intermediate"
           }
         ]
       },
       "paradigms": {
         "items": [
-          "Test Driven",
-          "Async",
-          "Object Oriented",
           "Functional",
+          "Business Oriented",
+          "Lean",
           "Microservices",
-          "Reactive"
+          "Open Source"
         ]
       }
     }
@@ -257,50 +268,9 @@
     "education": {
       "items": [
         {
-          "degree": "B.Sc. Software Engineering",
-          "institution": "Ort Braude College",
-          "gpa": 83,
-          "classOf": 2016,
-          "projects": {
-            "name": "Smart Calendar",
-            "startDate": "March 2015",
-            "endDate": "January 2016",
-            "paragraphs": [
-              "An Android Application which enhances itinerary management with location awareness."
-            ],
-            "features": [
-              {
-                "name": "Leave on Time",
-                "paragraphs": [
-                  "Notify users when they should depart their current location, so that no appointment is ever missed"
-                ]
-              },
-              {
-                "name": "Scheduling Collision Detection",
-                "paragraphs": [
-                  "Warn users about events they would not be able to attend due to time and location constraints"
-                ]
-              },
-              {
-                "name": "Supervised Itinerary Management",
-                "paragraphs": [
-                  "A supervisor user (ex. a manager) can share a view only calendar with a supervised user (ex. employee)"
-                ]
-              },
-              {
-                "name": "Itinerary Progression Tracking",
-                "paragraphs": [
-                  "Informs supervisor users whenever their subordinates arrive at the venue, are going to be late to the venue or are leaving the venue ahead of time."
-                ]
-              }
-            ],
-            "techStack": [
-              "C#",
-              ".NET",
-              "Entity Framework",
-              "Android"
-            ]
-          }
+          "degree": "B.Sc. Computer Science",
+          "institution": "The Open University of Israel",
+          "classOf": 2010
         }
       ]
     }
