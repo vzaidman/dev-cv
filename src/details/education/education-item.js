@@ -41,7 +41,9 @@ export class EducationItem extends React.Component {
             <div className={className}>
                 <div className={degreeClassName}>{degree}</div>
                 <div className={institutionClassName}>{`${preInstitution}${institution}${postInstitution}`}</div>
-                <div className={gpaClassName}>{`${preGPA}${gpa}${postGpa}`}</div>
+                {gpa && (
+                    <div className={gpaClassName}>{`${preGPA}${gpa}${postGpa}`}</div>
+                )}
                 <div className={classOfClassName}>{`${preClassOf}${classOf}${postClassOf}`}</div>
             </div>
         );

@@ -2,7 +2,7 @@
   display: grid;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: max-content max-content max-content max-content;
-  grid-template-areas: "degree degree degree institution" "gpa classof nope nope";
+  grid-template-areas: "degree degree degree institution";
   grid-gap: 3px 0;
 
   .degree {
@@ -17,13 +17,11 @@
   }
 
   .gpa {
-    grid-area: gpa;
     font-size: 0.9em;
+    margin-right: 5px;
   }
 
   .class-of {
-    margin-left: 5px;
-    grid-area: classof;
     font-size: 0.9em;
   }
 }
